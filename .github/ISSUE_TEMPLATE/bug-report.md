@@ -1,18 +1,20 @@
 ---
 name: Bug Report
 about: Report a bug
-title: "[BUG]"
+title: "[BUG] "
 labels: bug
 assignees: ''
 
 ---
 
 ### Before reporting a bug, have you... 
-**Tick the ones that you have completed
+**Tick the ones that you have completed**
 - [ ] Searched through previous issues to see solutions
 - [ ] Considered that this might be a intended feature
 - [ ] Read through the source code to see the logic
 - [ ] Tried editing the source code toa see if it works
+
+*Replace "[ ]" with "[X]" to check*
 
 ### Description
 **Enter the description of the bug**
