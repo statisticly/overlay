@@ -2,7 +2,7 @@
 name: Feature Request
 about: Send your ideas here to make the app better.
 title: "[SUGGESTION] "
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---
