@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug
+about: Report any bugs you see in the program.
 title: "[BUG] "
 labels: bug
 assignees: ''
@@ -24,6 +24,9 @@ assignees: ''
 1. First, you...
 2. Second, you...
 3. ...
+
+### Expectation
+**Here you write what you think the program was supposed to respond instead of a bug**
 
 ### Information
 **Here you write the information of your system and apps**
