@@ -1,16 +1,35 @@
 ---
 name: Bug Report
 about: Report a bug
-title: ''
-labels: ''
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---
 
-## BUG REPORT
-
-**Before reporting a bug, have you... (Tick the ones you have completed)**
+### Before reporting a bug, have you... 
+**Tick the ones that you have completed
 - [ ] Searched through previous issues to see solutions
 - [ ] Considered that this might be a intended feature
 - [ ] Read through the source code to see the logic
 - [ ] Tried editing the source code toa see if it works
+
+### Description
+**Enter the description of the bug**
+
+### To reproduce
+**Enter the instructions to how you got the bug**
+1. First, you...
+2. Second, you...
+3. ...
+
+### Information
+**Here you write the information of your system and apps**
+- OS & Version:
+- App Version: 
+
+### Attachments
+**Here you can attach files (screenshots, videos, etc.) to show the bug**
+
+### Other
+**Anything else you would like to say**
