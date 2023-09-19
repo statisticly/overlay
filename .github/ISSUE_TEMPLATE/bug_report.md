@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+**Before you submit, have you...*
+- [ ] Checked for other issues alike
+- [ ] Considered that it might be an intended feature
+- [ ] Looked through the source code
+- [ ] Modified the source code
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
